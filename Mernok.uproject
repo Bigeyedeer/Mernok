@@ -163,11 +163,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ChaosVehiclesPlugin",
+			"Name": "ChaosCaching",
 			"Enabled": true
 		},
 		{
-			"Name": "ChaosCaching",
+			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
 		}
 	]
